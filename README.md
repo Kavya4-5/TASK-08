@@ -1,1 +1,2 @@
-# TASK-08
+TASK-08
+The task focuses on applying K-Means Clustering, an unsupervised machine learning algorithm, to group data into distinct clusters without using predefined labels. Using a dataset like the Mall Customers Dataset, the task involves preprocessing the data, determining the optimal number of clusters using the Elbow Method, fitting the K-Means model, and visualizing the resulting clusters using 2D techniques such as **PCA**. The clustering performance is evaluated using the Silhouette Score, which measures how well each data point fits within its assigned cluster. 
